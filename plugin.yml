@@ -1,0 +1,10 @@
+name: HardSurvival
+main: hardSurvival.Main
+version: 1.0.0
+
+commands:
+  check:
+    description: Checks visionCount.
+    usage: /check
+    permission: OP
+    permission: You are not authorized!
